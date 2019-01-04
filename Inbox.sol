@@ -1,6 +1,8 @@
 contract Inbox {
    string public message;
 
+Var = 100;
+
    int public total;
 
    //constructorx
