@@ -2,7 +2,6 @@ pragma solidity ^0.4.16;
 contract testContract {
     uint value;
 
-
     function testContract(uint _p) {
         value = _p;
     }

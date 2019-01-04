@@ -7,6 +7,7 @@ interface Regulator {
 }
 
 contract Bank is Regulator {
+    //variavel private
     uint private value;
     address private owner;
     
