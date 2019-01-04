@@ -1,6 +1,6 @@
 pragma solidity 0.4.24;
 
-//Interface Regulator
+//Interface Regulatorx
 interface Regulator {
     function checkValue(uint amount) external returns (bool);
     function loan() external returns (bool);
