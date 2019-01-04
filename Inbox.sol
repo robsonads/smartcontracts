@@ -1,7 +1,7 @@
 contract Inbox {
    string public message;
 
-var = 200;
+var = 300;
 
    int public total;
 
