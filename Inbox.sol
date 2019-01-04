@@ -3,7 +3,7 @@ contract Inbox {
 
    int public total;
 
-   //constructor
+   //constructorx
    function Inbox( string initMensagem ) public{
        message = initMensagem;
    }
